@@ -9,6 +9,13 @@ your docker containers and images
 
 - Built on HTML,CSS,JS,Bootstrap etc.
 - Easy to use GUI
+- CLI mode 
+
+#Architecture:
+
+From my analysis and my research study. I found out that one of the biggest problems faced by companies
+who plan to implement on there systems and company workplaces is security. So I decided to design
+a new architecture that could solve some of the biggest problems faced by people using docker containers.
 
 #FAQ:
 
