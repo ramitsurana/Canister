@@ -1,4 +1,4 @@
-Uploading on 30 May 2015 ...Please Wait 
+Uploading on 30 May 2015 ...Please Star/Fork/Watch 
 
 #Canister:
 
