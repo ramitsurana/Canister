@@ -1,5 +1,8 @@
 Uploading on 30 May 2015 ...Please Star/Fork/Watch 
 
+This project is under developement. Please do not use it in production. Ideas, issues and patches 
+are very welcome.
+
 #Canister:
 
 Canister is a mangement and configuration tool for managing 
