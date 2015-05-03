@@ -14,12 +14,6 @@ your docker containers and images
 - Easy to use GUI
 - CLI mode 
 
-#Architecture:
-
-From my analysis and my research study. I found out that one of the biggest problems faced by companies
-who plan to implement on there systems and company workplaces is security. So I decided to design
-a new architecture that could solve some of the biggest problems faced by people using docker containers.
-
 #FAQ:
 
 - What is Canister ?
@@ -33,5 +27,5 @@ a new architecture that could solve some of the biggest problems faced by people
   
 #License:
 
-The code is released under Apache 2.0 license. See the 
+Copyright Stupefy 2015.The code is released under Apache 2.0 license. See the 
 License file present in the repository.
